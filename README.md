@@ -4,7 +4,7 @@ HealthAnalytics is a responsive dashboard which helps clinicians to visualize an
 
 -project page:https://kamalrossi.github.io/healthanalytics/
 
--Keywords: ReactJS, JSX, CSS, HTML5
+-Keywords: ReactJS, JSX, CSS, HTML5, MedTech
 
 -source code is available upon request (rossikamal@gmail.com)
 
